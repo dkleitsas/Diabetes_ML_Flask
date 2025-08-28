@@ -1,6 +1,6 @@
 # Pima Diabetes Dashboard
 
-This repository contains an interactive **Flask + Plotly** [dashboard](https://diabetes-ml-flask-ht3m.onrender.com/) for exploring the **Pima Indians Diabetes dataset** and visualizing the performance of different machine learning classifiers. The dashboard showcases **EDA plots**, **model metrics**, **confusion matrices**, and **feature importances** for Logistic Regression, XGBoost, and a Neural Network. The notebook that contains the EDA and model training is also available in the repo and is very easy to run and experiment with.
+This repository contains an interactive **Flask + Plotly** [dashboard](https://diabetes-ml-flask-ht3m.onrender.com/) for exploring the **Pima Indians Diabetes dataset** and visualizing the performance of different machine learning classifiers. The dashboard showcases **EDA plots**, **model metrics**, **confusion matrices**, and **feature importances** for Logistic Regression, XGBoost, and a Neural Network. The notebook that contains the EDA and model training is also available in the repo and is very easy to run and experiment with (Bear in mind this is hosted on a free service so it may occasionally present issues with loading).
 
 ---
 
